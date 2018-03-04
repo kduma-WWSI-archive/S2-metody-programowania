@@ -1,0 +1,16 @@
+1	Windows 10 - nowoczesna stacja robocza	20170419	3
+2	Implementing and Managing Windows	20170522	5
+3	Deploying and Managing Windows 10 Using Enterprise Services	20170529	5
+4	Supporting and Troubleshooting Windows 10	20170515	5
+5	Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools	20170710	5
+6	Upgrading Your Skills to MCSA Windows Server 2012	20170424	5
+7	Installing and Configuring Windows Server 2012	20170424	5
+8	Administering Windows Server 2012	20170424	5
+9	Configuring Advanced Windows Server 2012 Services	20170508	5
+10	Designing and Implementing a Server Infrastructure	20170515	5
+11	Implementing Desktop Application Environments	20170508	5
+12	Podstawy programowania w języku C++	20170522	3
+13	Zaawansowane techniki programowania w języku C++	20170424	2
+14	Programowanie wielowątkowe w języku C++	20170529	2
+15	Tworzenie niezawodnego oprogramowania w języku C++	20170619	2
+16	Szablony i metaprogramowanie w języku C++	20170601	2
